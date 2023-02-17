@@ -1,0 +1,19 @@
+@startuml Productstroom
+:Plan van aanpak & Werkafspraken;
+
+fork  
+  :Onderzoek;
+fork again
+  :Onderzoek;
+end fork
+
+  :Functioneel ontwerp;
+fork
+  :Technisch ontwerp;
+fork again
+  :Testplan / Testrapport;
+end fork
+  :App;
+
+  :Retrospective;
+@enduml
