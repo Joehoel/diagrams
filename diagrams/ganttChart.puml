@@ -1,0 +1,26 @@
+@startgantt planning
+saturday are closed
+sunday are closed
+Project starts 2023-02-7
+' Voorjaarsvakantie
+2023-02-27 to 2023-03-03 is closed
+' Meivakantie
+2023-05-01 to 2023-05-05 is closed
+' Goede vrijdag
+2023-04-07 is closed
+' Pasen
+2023-04-10 is closed
+
+[Kickoff en startup] lasts 3 days
+[Plan van aanpak] starts 2023-02-10 and lasts 6 days
+[Technisch advies rapport] starts 2023-02-20 and lasts 1 week
+[Onboarding onderzoek] starts 2023-03-20 and lasts 1 week
+[Vertaling onderzoek] starts 2023-03-06 and lasts 1 week
+[Functioneel ontwerp] starts 2023-03-06 and ends 2023-06-09
+[Technisch ontwerp] starts 2023-03-06 and ends 2023-06-09
+[API] starts 2023-03-20 and ends 2023-06-09
+[App] starts 2023-03-13 and ends 2023-06-09
+[Voorbereiding Winnovation] starts 2023-06-12 and lasts 3 days
+[Winnovation] starts 2023-06-15 and lasts 1 day
+[Oplevering] starts 2023-06-19 and ends 2023-06-30
+@endgantt
